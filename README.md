@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @sha10-bit
-- 👀 I’m interested in becoming a Cybersecurity & DevOps professional...
-- 🌱 I’m currently learning Cybersecurity, Cloud, Docker, Databases, and CI/CD pipelines...
-- 💞️ I’m looking to collaborate on hands-on projects involving Docker, Azure DevOps, Python, and SQL...
-- 💼 I’m working as a Trainee System Administrator at Contour, gaining hands-on experience with server management and IT infrastructure
-- 📫 How to reach me: [shayan.naushad@gmail.com https://www.linkedin.com/in/shayan-naushad-1777ab199/]
+💫 About Me:
+👋 Hi, I’m @sha10-bit
+👀 I’m interested in Cybersecurity, DevOps, and Cloud technologies.
+🌱 I’m currently learning Cybersecurity, Docker, Databases, CI/CD pipelines, and Cloud Security.
+💼 I’m working as a Trainee System Administrator at Contour, gaining hands-on experience with server management, networking, and IT infrastructure.
+📫 You can reach me on [LinkedIn or Email placeholder].
+
+🌐 Socials:
+[LinkedIn placeholder] | [Email placeholder]
+
+💻 Tech Stack:
+Python | SQL | PostgreSQL | MySQL | Microsoft SQL Server | Docker | Docker Compose | Git | GitHub | Azure | Linux | Windows Terminal | PowerShell | CI/CD | Pandas | NumPy | Jupyter Notebook | Flask | Cloud Security | Security Tools | Postman
 
 <!---
 sha10-bit/sha10-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
