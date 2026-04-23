@@ -128,13 +128,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sha10-bit&theme=tokyonight&no-frame=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,NULL)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -212,6 +206,6 @@ All packages installed successfully. 🚀
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/marquee.svg" width="100%"/>
 
 </div>
