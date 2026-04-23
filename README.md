@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Shayan Naushad
+# 💻 SHAYAN NAUSHAD
 
 ### `[ Cybersecurity & Cloud Computing Engineer ]`
 
@@ -27,7 +27,7 @@
   name       : "Shayan Naushad"
   degree     : "BS Computer Science"
   university : "UIT-NED, Karachi 🇵🇰"
-  role       : "Software Engineer @ Contour"
+  role       : "Trainee System Administrator @ Contour Software"
   focus:
     - "🛡️  Cybersecurity"
     - "☁️  Cloud Computing"
