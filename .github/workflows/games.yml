@@ -1,18 +1,24 @@
-name: Generate Games
+name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: sha10-bit
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
