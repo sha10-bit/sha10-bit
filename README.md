@@ -148,7 +148,7 @@
 
 ---
 
-## 🐍 Snake & 🕹️ Tetris — Contribution Games
+## 🐍 Snake Games
 
 <div align="center">
 
@@ -157,42 +157,7 @@
 
 </div>
 
-<details>
-<summary>⚙️ <b>Click here — How to activate Snake + Tetris games</b></summary>
 
-<br/>
-
-**Step 1:** In your `sha10-bit` repo, create the file `.github/workflows/games.yml` with this content:
-
-```yaml
-name: Generate Games
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2:** Go to **Actions** tab → Select **Generate Games** → Click **Run workflow**
-
-**Step 3:** After it runs, the snake SVG will appear automatically on your profile! 🐍
-
-**For Tetris:** Visit [github.com/gregrickaby/github-tetris](https://github.com/gregrickaby/github-tetris) and follow the setup — it adds a live playable Tetris board to your profile!
 
 </details>
 
