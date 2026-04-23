@@ -199,6 +199,8 @@ All packages installed successfully. 🚀
 ### 💼 Open to **Cybersecurity**, **Cloud Engineering** & **Infrastructure** Roles
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-naushad-1777ab199/)
+[![Gmail](https://img.shields.io/badge/Mail_Me_on_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayan.naushad@gmail.com)
+
 
 <br/>
 
