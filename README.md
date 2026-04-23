@@ -1,47 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Shayan%20Naushad&fontSize=50&fontColor=00D9FF&fontAlignY=38&desc=Cybersecurity%20%26%20Cloud%20Computing%20Engineer&descAlignY=58&descColor=FFFFFF&animation=fadeIn" />
+# 💻 Shayan Naushad
 
-</div>
+### `[ Cybersecurity & Cloud Computing Engineer ]`
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=🛡️+Cybersecurity+Engineer;☁️+Cloud+%26+Distributed+Systems;🐧+Linux+%7C+Databases+%7C+Infrastructure;🔐+Protecting+Digital+Assets+Since+Day+One;💻+BS+CS+%7C+UIT-NED+%7C+Karachi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=🛡️+Cybersecurity+Engineer;☁️+Huawei+Cloud+%26+Distributed+Systems;🐧+Linux+%7C+Databases+%7C+Infrastructure;🔐+ISC2+Certified+in+Cybersecurity;🚀+BS+CS+%7C+UIT-NED+%7C+Karachi%2C+Pakistan)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-naushad-1777ab199/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sha10-bit)
-[![Location](https://img.shields.io/badge/Karachi,_Pakistan-🇵🇰-00C853?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/Karachi%2C_Pakistan-00C853?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=sha10-bit&color=00D9FF&style=for-the-badge&label=Profile+Views)](#)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-FF4500?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
 
 ---
 
-<img align="right" alt="Hacking GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ## 👨‍💻 About Me
 
 ```yaml
-╔══════════════════════════════════════╗
-║        PROFILE: sha10-bit            ║
-╠══════════════════════════════════════╣
+╔══════════════════════════════════════════╗
+║          PROFILE: sha10-bit              ║
+╠══════════════════════════════════════════╣
   name       : "Shayan Naushad"
   degree     : "BS Computer Science"
-  university : "UIT-NED, Karachi"
+  university : "UIT-NED, Karachi 🇵🇰"
   role       : "Software Engineer @ Contour"
   focus:
-    - "Cybersecurity"
-    - "Cloud Computing"
-    - "Linux Administration"
-    - "Distributed Systems"
+    - "🛡️  Cybersecurity"
+    - "☁️  Cloud Computing"
+    - "🐧  Linux Administration"
+    - "📊  Distributed Systems & Big Data"
   status     : "Open to Opportunities 🚀"
   motto      : "Secure. Scale. Repeat."
-╚══════════════════════════════════════╝
+╚══════════════════════════════════════════╝
 ```
 
-<br clear="right"/>
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+![ISC2](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00AAFF?style=for-the-badge&logo=isc2&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-Developer_Associate_(HCIA)-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
+![Huawei TECH](https://img.shields.io/badge/Huawei-TECH_Essential-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
+![CNSP](https://img.shields.io/badge/The_SecOps_Group-CNSP-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![SecOps](https://img.shields.io/badge/The_SecOps_Group-Certified_Practitioner-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+</div>
 
 ---
 
@@ -54,6 +63,7 @@
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -61,19 +71,25 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-FF6F00?style=for-the-badge&logo=apache&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 💻 Programming & Data
+### 💻 Programming & Dev Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🔐 Security
+### 🔐 Security & Networking Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=black)
-![LVM Storage](https://img.shields.io/badge/LVM_Storage-4A90D9?style=for-the-badge&logo=linux&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-FF4444?style=for-the-badge&logo=wireguard&logoColor=white)
+![LVM Storage](https://img.shields.io/badge/LVM_Storage-4A90D9?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
@@ -107,9 +123,79 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sha10-bit&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sha10-bit&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sha10-bit&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Shayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sha10-bit&theme=tokyo-night&hide_border=true&border_radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Snake & 🕹️ Tetris — Contribution Games
+
+<div align="center">
+
+### 🐍 Snake eating my contributions
+![snake gif](https://github.com/sha10-bit/sha10-bit/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<details>
+<summary>⚙️ <b>Click here — How to activate Snake + Tetris games</b></summary>
+
+<br/>
+
+**Step 1:** In your `sha10-bit` repo, create the file `.github/workflows/games.yml` with this content:
+
+```yaml
+name: Generate Games
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 2:** Go to **Actions** tab → Select **Generate Games** → Click **Run workflow**
+
+**Step 3:** After it runs, the snake SVG will appear automatically on your profile! 🐍
+
+**For Tetris:** Visit [github.com/gregrickaby/github-tetris](https://github.com/gregrickaby/github-tetris) and follow the setup — it adds a live playable Tetris board to your profile!
+
+</details>
 
 ---
 
@@ -117,14 +203,15 @@
 
 <div align="center">
 
-| 🔴 Domain | ⚡ Skills |
+| Domain | Skills |
 |:---:|:---|
 | 🛡️ **Cybersecurity** | Threat analysis · Secure config · Access control · Network hardening |
-| ☁️ **Cloud Computing** | Distributed architectures · Scalable infra · Cloud-native design |
+| ☁️ **Cloud Computing** | Huawei Cloud · Distributed architectures · Scalable infra · Cloud-native |
 | 🐧 **Linux Admin** | RHEL/CentOS · LVM · Job automation · Package management |
 | 🗄️ **Databases** | MySQL · MSSQL · Oracle · JOINs · Stored procedures |
 | 📊 **Data Engineering** | Parallel processing · Large-scale analytics · ML pipelines |
 | 🌐 **IT Infrastructure** | Networking · Server setup · Enterprise system configs |
+| 🔧 **DevOps** | Docker · Kubernetes · Terraform · CI/CD · Git |
 
 </div>
 
@@ -140,6 +227,7 @@ $ sudo apt-get install next-level-skills
 > Installing: Threat Intelligence & Incident Response            ✅
 > Installing: Infrastructure as Code (Terraform / Ansible)       ✅
 > Installing: SIEM & Log Analysis                                ✅
+> Installing: Kubernetes Orchestration & Microservices           ✅
 
 All packages installed successfully. 🚀
 ```
@@ -152,12 +240,14 @@ All packages installed successfully. 🚀
 
 ### 💼 Open to **Cybersecurity**, **Cloud Engineering** & **Infrastructure** Roles
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-naushad-1777ab199/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-naushad-1777ab199/)
 
 <br/>
 
 > *"Security is not a product, but a process."* — **Bruce Schneier**
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=footer&animation=fadeIn" />
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
