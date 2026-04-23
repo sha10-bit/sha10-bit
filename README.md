@@ -132,7 +132,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sha10-bit&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sha10-bit&theme=tokyonight&no-frame=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,NULL)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
