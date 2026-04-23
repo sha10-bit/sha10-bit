@@ -4,7 +4,7 @@
 
 ### `[ Cybersecurity & Cloud Computing Engineer ]`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=🛡️+Cybersecurity+Engineer;☁️+Huawei+Cloud+%26+Distributed+Systems;🐧+Linux+%7C+Databases+%7C+Infrastructure;🔐+ISC2+Certified+in+Cybersecurity;🚀+BS+CS+%7C+UIT-NED+%7C+Karachi%2C+Pakistan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=🛡️+Cybersecurity+Engineer;☁️+Huawei+Cloud+%26+Distributed+Systems;🐧+Linux+%7C+Databases+%7C+Infrastructure;🏅+ISC2+CC+%7C+Google+Cybersecurity+%7C+CNSP;🚀+BS+CS+%7C+UIT-NED+%7C+Karachi%2C+Pakistan)](https://git.io/typing-svg)
 
 <br/>
 
@@ -45,10 +45,9 @@
 <div align="center">
 
 ![ISC2](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00AAFF?style=for-the-badge&logo=isc2&logoColor=white)
-![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-Developer_Associate_(HCIA)-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
-![Huawei TECH](https://img.shields.io/badge/Huawei-TECH_Essential-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
-![CNSP](https://img.shields.io/badge/The_SecOps_Group-CNSP-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![SecOps](https://img.shields.io/badge/The_SecOps_Group-Certified_Practitioner-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-Certified_Developer_Associate_(TECH--Essential)-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![CNSP](https://img.shields.io/badge/The_SecOps_Group-Certified_Network_Security_Practitioner_(CNSP)-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 </div>
 
